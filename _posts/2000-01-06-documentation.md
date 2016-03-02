@@ -1,5 +1,5 @@
 ---
-title: "more info"
+title: "documentation"
 bg: '#27ae60'
 fa-icon: book
 color: white
