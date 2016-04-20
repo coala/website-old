@@ -4,6 +4,8 @@
 &mdash;
 [Docs](http://docs.coala-analyzer.org/)
 &mdash;
+[FAQ](https://github.com/coala-analyzer/coala/wiki/FAQ)
+&mdash;
 [Blog](http://planet.coala-analyzer.org/)
 &mdash;
 [Donate](http://donate.coala-analyzer.org)
