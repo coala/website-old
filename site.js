@@ -101,7 +101,6 @@ $(function(){
         for (var i = 0; i < processed.length; i++) {
             for(var j=i+1; j < processed.length; j++) {
                 if (processed[i]['name'] == processed[j]['name']) {
-                    console.log(processed[i]['name']);
                     processed[i]['commits'] += processed[j]['commits'];
                     processed.splice(j, 1);
                 }
@@ -121,6 +120,9 @@ $(function(){
             $template.find('.nick a').attr('href', contributor.url)
             $template.show().appendTo('#contributors');
         });
+
+        // Change contributor count
+        $('#contributor-count').text(processed.length);
     });
 });
 
