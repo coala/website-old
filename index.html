@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
@@ -15,8 +16,7 @@
   {% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
 </head>
 <body>
-  <div id="main">
-
+<a class="github-fork-ribbon" href="https://github.com/coala/coala" title="Fork me on GitHub">Fork me on GitHub</a>
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
