@@ -1,14 +1,14 @@
-[Supported Languages](https://github.com/coala-analyzer/bear-docs/)
+[Supported Languages](https://coala.io/languages)
 &mdash;
 [Issue Tracker](http://bugs.coala-analyzer.org/)
 &mdash;
-[Code](https://github.com/coala-analyzer/coala)
+[Code](https://github.com/coala/coala)
 &mdash;
-[Docs](http://docs.coala-analyzer.org/)
+[Docs](http://docs.coala.io/)
 &mdash;
-[FAQ](https://github.com/coala-analyzer/coala/wiki/FAQ)
+[FAQ](https://github.com/coala/coala/wiki/FAQ)
 &mdash;
-[Blog](http://planet.coala-analyzer.org/)
+[Blog](http://blog.coala.io/)
 &mdash;
 [Donate](http://donate.coala-analyzer.org)
 &mdash;
